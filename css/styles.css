@@ -85,3 +85,32 @@ body{
     text-align: left;
 }
 
+/* ul {
+    list-style-type: none;
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+  }
+  li {
+    display: table-cell;
+    width: 50%;
+  } */
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
