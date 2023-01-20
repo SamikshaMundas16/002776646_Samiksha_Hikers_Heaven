@@ -11,8 +11,8 @@
 
 h1{
     margin: 0 auto 0 auto;
-    width: 10%;
-    font-family: 'Pacifico', cursive;
+    width: 50%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color:black;
     font-size: 250%;
     text-align: center;
@@ -57,3 +57,31 @@ body{
     color:#40514E;
 
 }
+
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+}
+.top-cloud{
+    position: relative;
+    left: 500px;
+    top: 100px;
+}
+
+.explore{
+    text-align: justify;
+   
+    
+}
+.himalaya{
+    height:auto;
+    width: 30%;
+}
+
+.destination-top{
+    background-color: aliceblue;
+}
+.destination-list{
+    text-align: left;
+}
+
