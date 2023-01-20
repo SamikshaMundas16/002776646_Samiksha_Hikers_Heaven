@@ -13,17 +13,21 @@ HTML tags:
 1. header
 2. title
 3. div
-4. img
-5. h1, h2, h3
-6. hr
-7. audio
-8. video
-9. link
-10. nav
-11. main
-12. p
-13. a
-14. i
-15. small
-16. form
-17. footer
+4. favicon
+5. img
+6. h1, h2, h3
+7. hr
+8. audio
+9. video
+10. link
+11. nav
+12. main
+13. p
+14. a, hyperlink
+15. i
+16. small
+17. form
+18. footer
+19. table
+20. button
+
